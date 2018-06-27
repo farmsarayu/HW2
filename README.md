@@ -1,1 +1,1 @@
-# [HW2](https://github.com/farmsarayu/HW2/mwa.md)
+# [HW2](https://github.com/farmsarayu/HW2/MWA.md)
